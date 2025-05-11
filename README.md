@@ -1,4 +1,4 @@
-````markdown
+````
 # 🛒 Grocery Items Micro API and Frontend
 
 A simple full-stack application using **Flask** for the backend API and **Vite + React + Tailwind CSS** for the frontend UI. This app allows you to create, read, update, and delete (CRUD) grocery items.
